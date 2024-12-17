@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cnayini\\source\\repos\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|c:\\users\\cnayini\\source\\repos\\library\\library\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|solutionrelative:library\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|c:\\users\\cnayini\\source\\repos\\library\\library\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|solutionrelative:library\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|c:\\users\\cnayini\\source\\repos\\library\\library\\views\\books\\borrowinghistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|solutionrelative:library\\views\\books\\borrowinghistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Migrations\\20241030062744_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\Migrations\\20241030062744_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|c:\\users\\cnayini\\source\\repos\\library\\library\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|solutionrelative:library\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|c:\\users\\cnayini\\source\\repos\\library\\library\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|solutionrelative:library\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|c:\\users\\cnayini\\source\\repos\\library\\library\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|solutionrelative:library\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|c:\\users\\cnayini\\source\\repos\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|c:\\users\\cnayini\\source\\repos\\library\\library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E94A77EA-3C0F-44A8-8EC2-4DF98C02680E}|Library\\Library.csproj|solutionrelative:library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Controllers\\LibraryController.cs*",
+              "RelativeToolTip": "Library\\Controllers\\LibraryController.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:12:33.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Models\\Book.cs",
+              "RelativeToolTip": "Library\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:02:09.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Models\\Borrower.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\Borrower.cs",
+              "ToolTip": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Models\\Borrower.cs",
+              "RelativeToolTip": "Library\\Models\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:03:23.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Views\\Books\\Index.cshtml*",
+              "RelativeToolTip": "Library\\Views\\Books\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T06:14:15.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BorrowingHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Views\\Books\\BorrowingHistory.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Books\\BorrowingHistory.cshtml",
+              "ToolTip": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Views\\Books\\BorrowingHistory.cshtml",
+              "RelativeToolTip": "Library\\Views\\Books\\BorrowingHistory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T06:15:27.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241030062744_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Migrations\\20241030062744_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Library\\Migrations\\20241030062744_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Migrations\\20241030062744_InitialCreate.cs",
+              "RelativeToolTip": "Library\\Migrations\\20241030062744_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:27:45.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Library\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\LibraryContext.cs",
+              "RelativeToolTip": "Library\\LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:04:09.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:07:41.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\appsettings.json",
+              "RelativeDocumentMoniker": "Library\\appsettings.json",
+              "ToolTip": "C:\\Users\\cnayini\\source\\repos\\Library\\Library\\appsettings.json",
+              "RelativeToolTip": "Library\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T06:06:25.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

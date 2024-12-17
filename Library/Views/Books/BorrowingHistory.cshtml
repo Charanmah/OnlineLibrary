@@ -1,0 +1,28 @@
+﻿@model IEnumerable<BorrowingHistory>
+@{
+    ViewData["Title"] = "Borrowing History";
+}
+
+<h1>Borrowing History</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Book Title</th>
+            <th>Borrowed Date</th>
+            <th>Due Date</th>
+            <th>Returned Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var history in Model)
+        {
+            <tr>
+                <td>@history.Book?.Title</td>
+                <td>@history.BorrowedDate.ToShortDateString()</td>
+                <td>@history.DueDate.ToShortDateString()</td>
+                <td>@(history.ReturnedDate.HasValue ? history.ReturnedDate.Value.ToShortDateString() : "Not Returned")</td>
+            </tr>
+        }
+    </tbody>
+</table>

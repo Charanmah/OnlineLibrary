@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Book>
+@{
+    ViewData["Title"] = "Library Books";
+}
+
+<h1>Library Books</h1>
+
+<form method="get">
+    <input type="text" name="searchString" placeholder="Search by title or author" />
+    <input type="submit" value="Search" />
+</form>
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>ISBN</th>
+            <th>Category</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.ISBN</td>
+                <td>@book.Category</td>
+                <td>@(book.IsBorrowed ? "Borrowed" : "Available")</td>
+                <td>
+                    @if (!book.IsBorrowed)
+                    {
+                        <a asp-action="BorrowBook" asp-route-id="@book.Id" asp-route-borrowerId="1">Borrow</a>
+                    }
+                    else
+                    {
+                        <a asp-action="ReturnBook" asp-route-id="@book.Id">Return</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
